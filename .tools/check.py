@@ -1,6 +1,6 @@
 import json
-from pathlib import Path
 import re
+from pathlib import Path
 
 MODID = "xaeroworldmap"
 ROOT_DIR = Path(__file__).resolve().parent.parent
