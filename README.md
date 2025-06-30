@@ -1,0 +1,7 @@
+# Actually Obtainable MythicMetals
+
+This is an eye-friendly [Mythic Metals](https://modrinth.com/mod/mythicmetals) resource pack, which adds more eye-catching edges for the ores in Mythic Metals (you may refer to the effect of the eye-friendly resource pack made by [HSDS](https://www.bilibili.com/video/BV1vD2GYnEf8/)). The name of this resource pack comes from the torturing experience while digging the unobtainium.
+
+> **EXTRA BONUS**
+> 
+> This resource pack also provides with some unofficial Chinese translations of a series of mods used in the [MirrorTree](https://github.com/MirrorTree-MC) server, such as [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty), FTB Quests, [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map), etc. Full mod list may be written here later.
